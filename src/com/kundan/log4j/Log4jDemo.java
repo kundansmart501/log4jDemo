@@ -7,7 +7,7 @@ import org.apache.log4j.Logger;
  * LEVELS and will write them' into separate files. For example, all DEBUG
  * messages will go to a file and all INFO messages will go to a different file.
  * 
- * @author Veera Sundar | http://veerasundar.com
+ * @author Kundan
  * 
  */
 public class Log4jDemo {
